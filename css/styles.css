@@ -8,16 +8,18 @@ img {
   margin-bottom: 20px;
 }
 
-.column {
-  border: 2px solid #EEEEEE;
+.eachproject {
+  border: 1px solid #EEEEEE;
   background-color: #f6f6f6;
-  padding: 5px;
+  padding: 10px;
+  padding-bottom:50px;
   margin: 10px;
 }
-.column h2 {
-  text-align: center;
-}
 
-.column p {
-  float: left;
+.eachproject img {
+  float: right;
+  width: 110px;
+  border-radius: 5px;
+  border: 4px solid #d1dcff;
+  padding: 2px;
 }
