@@ -11,7 +11,7 @@ This website showcases the projects that I've created with a small section about
 ## Setup/Installation Requirements
 
 No Setup Required.
-Visit my website here: 
+Visit my website here: http://alicehsiao.github.io/portfolio
 
 ## Known Bugs
 
